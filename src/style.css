@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+canvas {
+  background-color: black;
+  display: block;
+}
+
+.color {
+  color: hsl(240, 100%, 50%);
+}
